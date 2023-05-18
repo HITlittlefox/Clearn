@@ -1,0 +1,4 @@
+C:/Users/96361/Desktop/Github/Clearn/build/CMakeFiles/test.dir
+C:/Users/96361/Desktop/Github/Clearn/build/CMakeFiles/main.dir
+C:/Users/96361/Desktop/Github/Clearn/build/CMakeFiles/edit_cache.dir
+C:/Users/96361/Desktop/Github/Clearn/build/CMakeFiles/rebuild_cache.dir

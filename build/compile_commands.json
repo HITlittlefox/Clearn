@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/96361/Desktop/Github/Clearn/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\test.dir\\addtwonum\\addtwonum.c.obj -c C:\\Users\\96361\\Desktop\\Github\\Clearn\\addtwonum\\addtwonum.c",
+  "file": "C:/Users/96361/Desktop/Github/Clearn/addtwonum/addtwonum.c",
+  "output": "CMakeFiles/test.dir/addtwonum/addtwonum.c.obj"
+},
+{
+  "directory": "C:/Users/96361/Desktop/Github/Clearn/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\test.dir\\addtwonum\\test.c.obj -c C:\\Users\\96361\\Desktop\\Github\\Clearn\\addtwonum\\test.c",
+  "file": "C:/Users/96361/Desktop/Github/Clearn/addtwonum/test.c",
+  "output": "CMakeFiles/test.dir/addtwonum/test.c.obj"
+},
+{
+  "directory": "C:/Users/96361/Desktop/Github/Clearn/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\main.dir\\externstorageclass\\support.c.obj -c C:\\Users\\96361\\Desktop\\Github\\Clearn\\externstorageclass\\support.c",
+  "file": "C:/Users/96361/Desktop/Github/Clearn/externstorageclass/support.c",
+  "output": "CMakeFiles/main.dir/externstorageclass/support.c.obj"
+},
+{
+  "directory": "C:/Users/96361/Desktop/Github/Clearn/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\main.dir\\externstorageclass\\main.c.obj -c C:\\Users\\96361\\Desktop\\Github\\Clearn\\externstorageclass\\main.c",
+  "file": "C:/Users/96361/Desktop/Github/Clearn/externstorageclass/main.c",
+  "output": "CMakeFiles/main.dir/externstorageclass/main.c.obj"
+}
+]

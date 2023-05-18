@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "*.ejs": "html",
+      "iostream": "cpp"
+    },
+    "cmake.cmakePath": "cmake",
+    "cmake.generator": "MinGW Makefiles"
+  },
+  "launch": {
+    "version": "0.2.0",
+    "configurations": []
+  }
+}
